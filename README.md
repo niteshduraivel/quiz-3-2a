@@ -18,6 +18,7 @@ For every file in the directory, print the following information.
 - Number of disk blocks allocated
 - Access mode number and flags
 
-## Important notes: 
-1. If the directory content is not a valid file, print the message `File stat error`
+## Important notes:
 1. Refer to the sample output [sample_output.txt](sample_output.txt) as an example
+1. Your program will be manually tested for correctness with additional test cases including different types.
+1. Your program should compile with no errors and warnings.
