@@ -1,6 +1,6 @@
 # Quiz 3.2.a: file stats
 
-Write a C program that takes a directory name as input and give information about the named files in the directory. Next for every file in the directory, change the mode.
+Write a C program that takes a directory name as input and give information about the named files in the directory.
 
 Before your start coding, you can briefly read about the stat function here: https://linux.die.net/man/2/stat
 
