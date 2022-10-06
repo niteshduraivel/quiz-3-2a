@@ -16,10 +16,11 @@ For every file in the directory, print the following information.
 - Last modification
 - Last status change
 - Number of disk blocks allocated
-- Access mode number and flags
+- Access mode in octal
+- Access mode flags
 
 ## Important notes:
-1. Refer to the sample output [sample_output.txt](sample_output.txt) as an example of file stats for the directory [games](games)
-1. Usage: ./filestats directory_name
-1. Your program will be manually tested for correctness with additional test cases including different types.
+1. Refer to the sample output [sample_output.txt](sample_output.txt) as an example of file stats for the directory [games](games).
+1. Usage: `./filestats directory_name`
+1. Your program will be manually tested for correctness with additional test cases including different file types.
 1. Your program should compile with no errors and warnings.
