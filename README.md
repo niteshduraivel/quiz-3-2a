@@ -7,6 +7,7 @@ Before your start coding, you can briefly read about the stat function here: htt
 ## Print the files information
 For every file in the directory, print the following information.
 
+- File name
 - inode number
 - number of links
 - User ID of owner
